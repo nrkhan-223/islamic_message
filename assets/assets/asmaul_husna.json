@@ -1,0 +1,1194 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 1,
+      "name": "الرَّحْمَنُ",
+      "transliteration": {
+        "bn": "আর রাহমান",
+        "en": "Ar-Rahmaan"
+      },
+      "meaning": {
+        "bn": "পরম দয়ালু",
+        "en": "The Beneficent"
+      }
+    },
+    {
+      "number": 2,
+      "name": "الرَّحِيمُ",
+      "transliteration": {
+        "bn": "আর রহীম",
+        "en": "Ar-Raheem"
+      },
+      "meaning": {
+        "bn": "অতিশয়-মেহেরবান",
+        "en": "The Merciful"
+      }
+    },
+    {
+      "number": 3,
+      "name": "الْمَلِكُ",
+      "transliteration": {
+        "bn": "আল মালিক",
+        "en": "Al-Malik"
+      },
+      "meaning": {
+        "bn": "সর্বকর্তৃত্বময়, অধিপতি",
+        "en": "The Sovereign Lord"
+      }
+    },
+    {
+      "number": 4,
+      "name": "الْقُدُّوسُ",
+      "transliteration": {
+        "bn": "আল কুদ্দুস",
+        "en": "Al-Quddus"
+      },
+      "meaning": {
+        "bn": "নিষ্কলুষ, অতি পবিত্র",
+        "en": "The Holy"
+      }
+    },
+    {
+      "number": 5,
+      "name": "السَّلاَمُ",
+      "transliteration": {
+        "bn": "আস সালাম",
+        "en": "As-Salaam"
+      },
+      "meaning": {
+        "bn": "শান্তি-দানকারী",
+        "en": "The Source of Peace"
+      }
+    },
+    {
+      "number": 6,
+      "name": "الْمُؤْمِنُ",
+      "transliteration": {
+        "bn": "আল মুমিন",
+        "en": "Al-Mu'min"
+      },
+      "meaning": {
+        "bn": "নিরাপত্তা ও ঈমান দানকারী",
+        "en": "The Bestower of Faith"
+      }
+    },
+    {
+      "number": 7,
+      "name": "الْمُهَيْمِنُ",
+      "transliteration": {
+        "bn": "আল মুহাইমিন",
+        "en": "Al-Muhaymin"
+      },
+      "meaning": {
+        "bn": "অভিভাবক, প্রতিপালনকারী",
+        "en": "The Protector"
+      }
+    },
+    {
+      "number": 8,
+      "name": "الْعَزِيزُ",
+      "transliteration": {
+        "bn": "আল আজিজ",
+        "en": "Al-Aziz"
+      },
+      "meaning": {
+        "bn": "পরাক্রমশালী",
+        "en": "The Mighty"
+      }
+    },
+    {
+      "number": 9,
+      "name": "الْجَبَّارُ",
+      "transliteration": {
+        "bn": "আল জব্বার",
+        "en": "Al-Jabbar"
+      },
+      "meaning": {
+        "bn": "মহাপ্রতাপশালী",
+        "en": "The All Compeller"
+      }
+    },
+    {
+      "number": 10,
+      "name": "الْمُتَكَبِّرُ",
+      "transliteration": {
+        "bn": "আল মুতাকাব্বির",
+        "en": "Al-Mutakabbir"
+      },
+      "meaning": {
+        "bn": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী",
+        "en": "The Majestic"
+      }
+    },
+    {
+      "number": 11,
+      "name": "الْخَالِقُ",
+      "transliteration": {
+        "bn": "আল খালিক",
+        "en": "Al-Khaaliq"
+      },
+      "meaning": {
+        "bn": "সৃষ্টিকর্তা",
+        "en": "The Creator"
+      }
+    },
+    {
+      "number": 12,
+      "name": "الْبَارِئُ",
+      "transliteration": {
+        "bn": "আল-বারী",
+        "en": "Al-Baari"
+      },
+      "meaning": {
+        "bn": "প্রকৃত সৃষ্টিকর্তা",
+        "en": "The Maker"
+      }
+    },
+    {
+      "number": 13,
+      "name": "الْمُصَوِّرُ",
+      "transliteration": {
+        "bn": "আল মুসাওয়ীর",
+        "en": "Al-Musawwir"
+      },
+      "meaning": {
+        "bn": "আকৃতি-দানকারী",
+        "en": "The Fashioner"
+      }
+    },
+    {
+      "number": 14,
+      "name": "الْغَفَّارُ",
+      "transliteration": {
+        "bn": "আল গফফার",
+        "en": "Al-Ghaffaar"
+      },
+      "meaning": {
+        "bn": "ক্ষমাশীল",
+        "en": "The Ever-Forgiving"
+      }
+    },
+    {
+      "number": 15,
+      "name": "الْقَهَّارُ",
+      "transliteration": {
+        "bn": "আল কাহ্হার",
+        "en": "Al-Qahhaar"
+      },
+      "meaning": {
+        "bn": "প্রবল শাসক",
+        "en": "The Subduer"
+      }
+    },
+    {
+      "number": 16,
+      "name": "الْوَهَّابُ",
+      "transliteration": {
+        "bn": "আল ওয়াহ্হাব",
+        "en": "Al-Wahhaab"
+      },
+      "meaning": {
+        "bn": "উপহারদাতা",
+        "en": "The Giver of Gifts"
+      }
+    },
+    {
+      "number": 17,
+      "name": "الرَّزَّاقُ",
+      "transliteration": {
+        "bn": "আর রাজ্জাক",
+        "en": "Ar-Razzaaq"
+      },
+      "meaning": {
+        "bn": "রিযিকদাতা",
+        "en": "The Sustainer"
+      }
+    },
+    {
+      "number": 18,
+      "name": "الْفَتَّاحُ",
+      "transliteration": {
+        "bn": "আল ফাত্তাহ",
+        "en": "Al-Fattaah"
+      },
+      "meaning": {
+        "bn": "বিজয়দানকারী",
+        "en": "The Opener"
+      }
+    },
+    {
+      "number": 19,
+      "name": "اَلْعَلِيْمُ",
+      "transliteration": {
+        "bn": "আল আলীম",
+        "en": "Al-Aleem"
+      },
+      "meaning": {
+        "bn": "মহাজ্ঞানী",
+        "en": "The All-Knowing"
+      }
+    },
+    {
+      "number": 20,
+      "name": "الْقَابِضُ",
+      "transliteration": {
+        "bn": "আল ক্বাবিদ",
+        "en": "Al-Qaabid"
+      },
+      "meaning": {
+        "bn": "সরল পথ প্রদর্শনকারী",
+        "en": "The Restrainer"
+      }
+    },
+    {
+      "number": 21,
+      "name": "الْبَاسِطُ",
+      "transliteration": {
+        "bn": "আল বাসিত",
+        "en": "Al-Baasit"
+      },
+      "meaning": {
+        "bn": "সম্প্রসারক",
+        "en": "The Extender"
+      }
+    },
+    {
+      "number": 22,
+      "name": "الْخَافِضُ",
+      "transliteration": {
+        "bn": "আল খাফিদ",
+        "en": "Al-Khaafid"
+      },
+      "meaning": {
+        "bn": "অবিশ্বাসীদের অপমানকারী",
+        "en": "The Abaser"
+      }
+    },
+    {
+      "number": 23,
+      "name": "الرَّافِعُ",
+      "transliteration": {
+        "bn": "আর রাফি",
+        "en": "Ar-Raafi"
+      },
+      "meaning": {
+        "bn": "উন্নতকারী, উঁচুকারী",
+        "en": "The Exalter"
+      }
+    },
+    {
+      "number": 24,
+      "name": "الْمُعِزُّ",
+      "transliteration": {
+        "bn": "আল-মুই'জ্ব",
+        "en": "Al Mu’izz"
+      },
+      "meaning": {
+        "bn": "সম্মান-দানকারী",
+        "en": "The Giver of Honor"
+      }
+    },
+    {
+      "number": 25,
+      "name": "المُذِلُّ",
+      "transliteration": {
+        "bn": "আল-মুযিল্ল",
+        "en": "Al Mudzil"
+      },
+      "meaning": {
+        "bn": "সম্মান হরণকারী",
+        "en": "The Giver of Dishonor"
+      }
+    },
+    {
+      "number": 26,
+      "name": "السَّمِيعُ",
+      "transliteration": {
+        "bn": "আস্-সামিই'",
+        "en": "As-Sami'"
+      },
+      "meaning": {
+        "bn": "সর্বশ্রোতা",
+        "en": "The All Hearing"
+      }
+    },
+    {
+      "number": 27,
+      "name": "الْبَصِيرُ",
+      "transliteration": {
+        "bn": "আল বাছীর",
+        "en": "Al-Bashiir"
+      },
+      "meaning": {
+        "bn": "সর্বদ্রষ্টা",
+        "en": "The All Seeing"
+      }
+    },
+    {
+      "number": 28,
+      "name": "الْحَكَمُ",
+      "transliteration": {
+        "bn": "আল-হা'কাম",
+        "en": "Al-Hakam"
+      },
+      "meaning": {
+        "bn": "অটল বিচারক",
+        "en": "The Judge"
+      }
+    },
+    {
+      "number": 29,
+      "name": "الْعَدْلُ",
+      "transliteration": {
+        "bn": "আল-আ'দল",
+        "en": "Al-'Adl"
+      },
+      "meaning": {
+        "bn": "পরিপূর্ণ-ন্যায়বিচারক",
+        "en": "The Utterly Just"
+      }
+    },
+    {
+      "number": 30,
+      "name": "اللَّطِيفُ",
+      "transliteration": {
+        "bn": "আল লাতীফ",
+        "en": "Al-Latif'"
+      },
+      "meaning": {
+        "bn": "অমায়িক",
+        "en": "The One who is kind"
+      }
+    },
+    {
+      "number": 31,
+      "name": "الْخَبِيرُ",
+      "transliteration": {
+        "bn": "আল-খ'বীর",
+        "en": "Al-Khabir"
+      },
+      "meaning": {
+        "bn": "সকল ব্যাপারে জ্ঞাত",
+        "en": "The Sagacious"
+      }
+    },
+    {
+      "number": 32,
+      "name": "الْحَلِيمُ",
+      "transliteration": {
+        "bn": "আল-হা'লীম",
+        "en": "Al-Halim"
+      },
+      "meaning": {
+        "bn": "অত্যন্ত ধৈর্যশীল",
+        "en": "The most patient"
+      }
+    },
+    {
+      "number": 33,
+      "name": "الْعَظِيمُ",
+      "transliteration": {
+        "bn": "আল-আ'জীম",
+        "en": "Al-'Azim"
+      },
+      "meaning": {
+        "bn": "সর্বোচ্চ-মর্যাদাশীল",
+        "en": "The Great"
+      }
+    },
+    {
+      "number": 34,
+      "name": "الْغَفُورُ",
+      "transliteration": {
+        "bn": "আল গফুর",
+        "en": "Al-Ghafoor"
+      },
+      "meaning": {
+        "bn": "পরম ক্ষমাশীল",
+        "en": "The Forgiving"
+      }
+    },
+    {
+      "number": 35,
+      "name": "الشَّكُورُ",
+      "transliteration": {
+        "bn": "আশ্-শাকুর",
+        "en": "Ash-Shakur"
+      },
+      "meaning": {
+        "bn": "গুনগ্রাহী, সুবিবেচক",
+        "en": "The Grateful"
+      }
+    },
+    {
+      "number": 36,
+      "name": "الْعَلِيُّ",
+      "transliteration": {
+        "bn": "আল-আ'লিইউ",
+        "en": "Al-Ali"
+      },
+      "meaning": {
+        "bn": "উচ্চ-মর্যাদাশীল",
+        "en": "The exalted"
+      }
+    },
+    {
+      "number": 37,
+      "name": "الْكَبِيرُ",
+      "transliteration": {
+        "bn": "আল কাবিইর",
+        "en": "Al-Kabir"
+      },
+      "meaning": {
+        "bn": "সুমহান",
+        "en": "The great"
+      }
+    },
+    {
+      "number": 38,
+      "name": "الْحَفِيظُ",
+      "transliteration": {
+        "bn": "আল-হা'ফীজ",
+        "en": "Ar-Hafiz"
+      },
+      "meaning": {
+        "bn": "সংরক্ষণকারী",
+        "en": "The preserver"
+      }
+    },
+    {
+      "number": 39,
+      "name": "المُقيِت",
+      "transliteration": {
+        "bn": "আল-মুক্বীত",
+        "en": "Al Muqiit"
+      },
+      "meaning": {
+        "bn": "লালনপালনকারী",
+        "en": "The Nourisher"
+      }
+    },
+    {
+      "number": 40,
+      "name": "الْحسِيبُ",
+      "transliteration": {
+        "bn": "আল-হাসীব",
+        "en": "Al-Hasib"
+      },
+      "meaning": {
+        "bn": "হিসাব-গ্রহণকারী",
+        "en": "The noble"
+      }
+    },
+    {
+      "number": 41,
+      "name": "الْجَلِيلُ",
+      "transliteration": {
+        "bn": "আল জালীল",
+        "en": "Al-Jaleel"
+      },
+      "meaning": {
+        "bn": "মহামহিম",
+        "en": "The Majestic"
+      }
+    },
+    {
+      "number": 42,
+      "name": "الْكَرِيمُ",
+      "transliteration": {
+        "bn": "আল কারীম",
+        "en": "Al-Kareem"
+      },
+      "meaning": {
+        "bn": "মহান দাতা",
+        "en": "The Generous"
+      }
+    },
+    {
+      "number": 43,
+      "name": "الرَّقِيبُ",
+      "transliteration": {
+        "bn": "আর রাকীব",
+        "en": "Ar-Raqeeb"
+      },
+      "meaning": {
+        "bn": "তত্ত্বাবধায়ক",
+        "en": "The Watchful"
+      }
+    },
+    {
+      "number": 44,
+      "name": "الْمُجِيبُ",
+      "transliteration": {
+        "bn": "আল মুজীব",
+        "en": "Al-Mujeeb"
+      },
+      "meaning": {
+        "bn": "প্রার্থনা কবুলকারী",
+        "en": "The Responder"
+      }
+    },
+    {
+      "number": 45,
+      "name": "الْوَاسِعُ",
+      "transliteration": {
+        "bn": "আল ওয়াসিউ",
+        "en": "Al-Waasi'"
+      },
+      "meaning": {
+        "bn": "প্রশান্ত ও সম্পূর্ণ সীমাহীন",
+        "en": "The Vast"
+      }
+    },
+    {
+      "number": 46,
+      "name": "الْحَكِيمُ",
+      "transliteration": {
+        "bn": "আল হাকীম",
+        "en": "Al-Hakeem"
+      },
+      "meaning": {
+        "bn": "বিচক্ষণ",
+        "en": "The Wise"
+      }
+    },
+    {
+      "number": 47,
+      "name": "الْوَدُودُ",
+      "transliteration": {
+        "bn": "আল ওয়াদুদ",
+        "en": "Al-Wadud"
+      },
+      "meaning": {
+        "bn": "(বান্দাদের প্রতি) সদয়",
+        "en": "The Loving"
+      }
+    },
+    {
+      "number": 48,
+      "name": "الْمَجِيدُ",
+      "transliteration": {
+        "bn": "আল মাজীদ",
+        "en": "Al-Majeed"
+      },
+      "meaning": {
+        "bn": "মহিমান্বিত",
+        "en": "The Glorious"
+      }
+    },
+    {
+      "number": 49,
+      "name": "الْبَاعِثُ",
+      "transliteration": {
+        "bn": "আল বায়ীথ",
+        "en": "Al-Baa'ith"
+      },
+      "meaning": {
+        "bn": "পুনুরুজ্জীবিতকারী",
+        "en": "The Resurrector"
+      }
+    },
+    {
+      "number": 50,
+      "name": "الشَّهِيدُ",
+      "transliteration": {
+        "bn": "আশ শাহিদ",
+        "en": "Ash-Shaheed"
+      },
+      "meaning": {
+        "bn": "প্রত্যক্ষদর্শী",
+        "en": "The Witness"
+      }
+    },
+    {
+      "number": 51,
+      "name": "الْحَقُّ",
+      "transliteration": {
+        "bn": "আল হা’ক্ক",
+        "en": "Al-Haqq"
+      },
+      "meaning": {
+        "bn": "পরম সত্য",
+        "en": "The Truth"
+      }
+    },
+    {
+      "number": 52,
+      "name": "الْوَكِيلُ",
+      "transliteration": {
+        "bn": "আল ওয়াকীল",
+        "en": "Al-Wakeel"
+      },
+      "meaning": {
+        "bn": "প্রতিষ্ঠাতা",
+        "en": "The Trustee"
+      }
+    },
+    {
+      "number": 53,
+      "name": "الْقَوِيُّ",
+      "transliteration": {
+        "bn": "আল কও’ঈউ",
+        "en": "Al-Qawiyy"
+      },
+      "meaning": {
+        "bn": "পরম শক্তিশালী",
+        "en": "The Strong"
+      }
+    },
+    {
+      "number": 54,
+      "name": "الْمَتِينُ",
+      "transliteration": {
+        "bn": "আল মাতিন",
+        "en": "Al-Mateen"
+      },
+      "meaning": {
+        "bn": "সুদৃঢ়",
+        "en": "The Firm"
+      }
+    },
+    {
+      "number": 55,
+      "name": "الْوَلِيُّ",
+      "transliteration": {
+        "bn": "আল ওয়ালিউ",
+        "en": "Al-Waliyy"
+      },
+      "meaning": {
+        "bn": "প্রতিরক্ষক",
+        "en": "The Protector"
+      }
+    },
+    {
+      "number": 56,
+      "name": "الْحَمِيدُ",
+      "transliteration": {
+        "bn": "আল হামীদ",
+        "en": "Al-Hameed"
+      },
+      "meaning": {
+        "bn": "সকল প্রশংসার অধিকারী",
+        "en": "The Praiseworthy"
+      }
+    },
+    {
+      "number": 57,
+      "name": "الْمُحْصِي",
+      "transliteration": {
+        "bn": "আল মুহসী",
+        "en": "Al-Muhsi"
+      },
+      "meaning": {
+        "bn": "সকল সৃষ্টির ব্যপারে অবগত",
+        "en": "The Reckoner"
+      }
+    },
+    {
+      "number": 58,
+      "name": "الْمُبْدِئُ",
+      "transliteration": {
+        "bn": "আল মুবদী’উ",
+        "en": "Al-Mubdi'"
+      },
+      "meaning": {
+        "bn": "প্রথমবার-সৃষ্টিকর্তা",
+        "en": "The Originator"
+      }
+    },
+    {
+      "number": 59,
+      "name": "الْمُعِيدُ",
+      "transliteration": {
+        "bn": "আল মু’ঈদ",
+        "en": "Al-Mu'eed"
+      },
+      "meaning": {
+        "bn": "পুনরায়-সৃষ্টিকর্তা",
+        "en": "The Restorer"
+      }
+    },
+    {
+      "number": 60,
+      "name": "الْمُحْيِي",
+      "transliteration": {
+        "bn": "আল মুহইউ",
+        "en": "Al-Muhyi"
+      },
+      "meaning": {
+        "bn": "জীবন-দানকারী",
+        "en": "The Giver of Life"
+      }
+    },
+    {
+      "number": 61,
+      "name": "اَلْمُمِيتُ",
+      "transliteration": {
+        "bn": "আল মুমিত",
+        "en": "Al-Mumeet"
+      },
+      "meaning": {
+        "bn": "মৃত্যু-দানকারী",
+        "en": "The Taker of Life"
+      }
+    },
+    {
+      "number": 62,
+      "name": "الْحَيُّ",
+      "transliteration": {
+        "bn": "আল হাইয়্যু",
+        "en": "Al-Hayy"
+      },
+      "meaning": {
+        "bn": "চিরঞ্জীব",
+        "en": "The Ever-Living"
+      }
+    },
+    {
+      "number": 63,
+      "name": "الْقَيُّومُ",
+      "transliteration": {
+        "bn": "আল কায়্যুম",
+        "en": "Al-Qayyum"
+      },
+      "meaning": {
+        "bn": "সমস্তকিছুর ধারক ও সংরক্ষণকারী",
+        "en": "The Self-Subsisting"
+      }
+    },
+    {
+      "number": 64,
+      "name": "الْوَاجِدُ",
+      "transliteration": {
+        "bn": "আল ওয়াজিদ",
+        "en": "Al-Waajid"
+      },
+      "meaning": {
+        "bn": "অফুরন্ত ভান্ডারের অধিকারী",
+        "en": "The Finder"
+      }
+    },
+    {
+      "number": 65,
+      "name": "الْمَاجِدُ",
+      "transliteration": {
+        "bn": "আল মাজিদ",
+        "en": "Al-Maajid"
+      },
+      "meaning": {
+        "bn": "মহামহিম",
+        "en": "The Glorious"
+      }
+    },
+    {
+      "number": 66,
+      "name": "الْواحِدُ",
+      "transliteration": {
+        "bn": "আল ওয়াহিদ",
+        "en": "Al-Waahid"
+      },
+      "meaning": {
+        "bn": "এক ও অদ্বিতীয়",
+        "en": "The Unique"
+      }
+    },
+    {
+      "number": 67,
+      "name": "الْأَحَدُ",
+      "transliteration": {
+        "bn": "আল আহাদ",
+        "en": "Al-Ahad"
+      },
+      "meaning": {
+        "bn": "অদ্বিতীয়",
+        "en": "The One"
+      }
+    },
+    {
+      "number": 68,
+      "name": "الصَّمَدُ",
+      "transliteration": {
+        "bn": "আস সামাদ",
+        "en": "As-Samad"
+      },
+      "meaning": {
+        "bn": "স্বয়ং সম্পূর্ণ",
+        "en": "The Self Sufficient"
+      }
+    },
+    {
+      "number": 69,
+      "name": "الْقَادِرُ",
+      "transliteration": {
+        "bn": "আল কাদীর",
+        "en": "Al-Qadir"
+      },
+      "meaning": {
+        "bn": "সর্বশক্তিমান",
+        "en": "The Able"
+      }
+    },
+    {
+      "number": 70,
+      "name": "الْمُقْتَدِرُ",
+      "transliteration": {
+        "bn": "আল মুকতাদীর",
+        "en": "Al-Muqtadir"
+      },
+      "meaning": {
+        "bn": "অধিপতি",
+        "en": "The Determiner"
+      }
+    },
+    {
+      "number": 71,
+      "name": "الْمُقَدِّمُ",
+      "transliteration": {
+        "bn": "আল মুকাদ্দিম",
+        "en": "Al-Muqaddim"
+      },
+      "meaning": {
+        "bn": "সর্বাগ্রে সহায়তা প্রদানকারী",
+        "en": "The Expediter"
+      }
+    },
+    {
+      "number": 72,
+      "name": "الْمُؤَخِّرُ",
+      "transliteration": {
+        "bn": "আল মুউয়াক্ক্কির",
+        "en": "Al-Mu'akhkhir"
+      },
+      "meaning": {
+        "bn": "অবকাশ দানকারী",
+        "en": "The Delayer"
+      }
+    },
+    {
+      "number": 73,
+      "name": "الْأَوَّلُ",
+      "transliteration": {
+        "bn": "আল আউয়াল",
+        "en": "Al-Awwal"
+      },
+      "meaning": {
+        "bn": "আদি",
+        "en": "The First"
+      }
+    },
+    {
+      "number": 74,
+      "name": "الْآخِرُ",
+      "transliteration": {
+        "bn": "আল আখির",
+        "en": "Al-Aakhir"
+      },
+      "meaning": {
+        "bn": "অনন্ত",
+        "en": "The Last"
+      }
+    },
+    {
+      "number": 75,
+      "name": "الظَّاهِرُ",
+      "transliteration": {
+        "bn": "আয জাহির",
+        "en": "Az-Zaahir"
+      },
+      "meaning": {
+        "bn": "প্রকাশ্য",
+        "en": "The Manifest"
+      }
+    },
+    {
+      "number": 76,
+      "name": "الْبَاطِنُ",
+      "transliteration": {
+        "bn": "আল বাতিন",
+        "en": "Al-Baatin"
+      },
+      "meaning": {
+        "bn": "গোপন",
+        "en": "The Hidden"
+      }
+    },
+    {
+      "number": 77,
+      "name": "الْوَالِي",
+      "transliteration": {
+        "bn": "আল ওয়ালী",
+        "en": "Al-Waali"
+      },
+      "meaning": {
+        "bn": "সমস্ত কিছুর অভিভাবক",
+        "en": "The Governor"
+      }
+    },
+    {
+      "number": 78,
+      "name": "الْمُتَعَالِي",
+      "transliteration": {
+        "bn": "আল মুতাআলী",
+        "en": "Al-Muta'aali"
+      },
+      "meaning": {
+        "bn": "উচ্চতর",
+        "en": "The Most Exalted"
+      }
+    },
+    {
+      "number": 79,
+      "name": "الْبَرُّ",
+      "transliteration": {
+        "bn": "আল বার",
+        "en": "Al-Barr"
+      },
+      "meaning": {
+        "bn": "পরম-উপকারী",
+        "en": "The Source of All Goodness"
+      }
+    },
+    {
+      "number": 80,
+      "name": "التَّوَابُ",
+      "transliteration": {
+        "bn": "আত্-তাওয়াব",
+        "en": "At-Tawwaab"
+      },
+      "meaning": {
+        "bn": "ক্ষমাকারী",
+        "en": "The Acceptor of Repentance"
+      }
+    },
+    {
+      "number": 81,
+      "name": "الْمُنْتَقِمُ",
+      "transliteration": {
+        "bn": "আল মুনতাকিম",
+        "en": "Al-Muntaqim"
+      },
+      "meaning": {
+        "bn": "প্রতিশোধ-গ্রহণকারী",
+        "en": "The Avenger"
+      }
+    },
+    {
+      "number": 82,
+      "name": "الْعَفُوُّ",
+      "transliteration": {
+        "bn": "আল-আ'ফঊ",
+        "en": "Al-Afuww"
+      },
+      "meaning": {
+        "bn": "পাপ মোচনকারী",
+        "en": "The Forgiver"
+      }
+    },
+    {
+      "number": 83,
+      "name": "الرَّؤُوفُ",
+      "transliteration": {
+        "bn": "আর রাউফ",
+        "en": "Ar-Ra'oof"
+      },
+      "meaning": {
+        "bn": "কৃপালু",
+        "en": "The Compassionate"
+      }
+    },
+    {
+      "number": 84,
+      "name": "مَالِكُ الْمُلْكِ",
+      "transliteration": {
+        "bn": "মালিকুল মুলক",
+        "en": "Malik-ul-Mulk"
+      },
+      "meaning": {
+        "bn": "সমগ্র জগতের বাদশাহ্",
+        "en": "Owner of Sovereignty"
+      }
+    },
+    {
+      "number": 85,
+      "name": "ذُوالْجَلَالِ وَالْإِكْرَامِ",
+      "transliteration": {
+        "bn": "যুল জালালি ওয়া ল ইকরাম",
+        "en": "Dhul-Jalaali wa Al-Ikraam"
+      },
+      "meaning": {
+        "bn": "মহিমান্বিত ও সম্মানিত প্রতিপালক",
+        "en": "Possessor of Majesty and Honour"
+      }
+    },
+    {
+      "number": 86,
+      "name": "الْمُقْسِطُ",
+      "transliteration": {
+        "bn": "আল মুকসিত",
+        "en": "Al-Muqsit"
+      },
+      "meaning": {
+        "bn": "বিচারক",
+        "en": "The Equitable"
+      }
+    },
+    {
+      "number": 87,
+      "name": "الْجَامِعُ",
+      "transliteration": {
+        "bn": "আল জামিউ",
+        "en": "Al-Jaami'"
+      },
+      "meaning": {
+        "bn": "একত্রকারী",
+        "en": "The Gatherer"
+      }
+    },
+    {
+      "number": 88,
+      "name": "الْغَنِيُّ",
+      "transliteration": {
+        "bn": "আল গানী",
+        "en": "Al-Ghaniyy"
+      },
+      "meaning": {
+        "bn": "ধনী",
+        "en": "The Rich"
+      }
+    },
+    {
+      "number": 89,
+      "name": "الْمُغْنِي",
+      "transliteration": {
+        "bn": "আল মুগনী",
+        "en": "Al-Mughni"
+      },
+      "meaning": {
+        "bn": "সমৃদ্ধকর্তা",
+        "en": "The Enricher"
+      }
+    },
+    {
+      "number": 90,
+      "name": "اَلْمَانِعُ",
+      "transliteration": {
+        "bn": "আল মানিউ",
+        "en": "Al-Maani'"
+      },
+      "meaning": {
+        "bn": "রক্ষাকর্তা",
+        "en": "The Preventer of Harm"
+      }
+    },
+    {
+      "number": 91,
+      "name": "الضَّارَّ",
+      "transliteration": {
+        "bn": "আদ দার্র",
+        "en": "Ad-Daarr"
+      },
+      "meaning": {
+        "bn": "যন্ত্রনাদানকারী",
+        "en": "The Afflictor"
+      }
+    },
+    {
+      "number": 92,
+      "name": "النَّافِعُ",
+      "transliteration": {
+        "bn": "আন নাফিউ",
+        "en": "An-Naafi'"
+      },
+      "meaning": {
+        "bn": "কল্যাণকারী",
+        "en": "The Benefactor"
+      }
+    },
+    {
+      "number": 93,
+      "name": "النُّورُ",
+      "transliteration": {
+        "bn": "আন নূর",
+        "en": "An-Noor"
+      },
+      "meaning": {
+        "bn": "আলো",
+        "en": "The Light"
+      }
+    },
+    {
+      "number": 94,
+      "name": "الْهَادِي",
+      "transliteration": {
+        "bn": "আল হাদী",
+        "en": "Al-Haadi"
+      },
+      "meaning": {
+        "bn": "পথনির্দেশক",
+        "en": "The Guide"
+      }
+    },
+    {
+      "number": 95,
+      "name": "الْبَدِيعُ",
+      "transliteration": {
+        "bn": "আল বাদীউ",
+        "en": "Al-Badi"
+      },
+      "meaning": {
+        "bn": "অত্যন্ত সুন্দর সৃষ্টিকর্তা",
+        "en": "The Incomparable Originator"
+      }
+    },
+    {
+      "number": 96,
+      "name": "اَلْبَاقِي",
+      "transliteration": {
+        "bn": "আল বাকী",
+        "en": "Al-Baaqi"
+      },
+      "meaning": {
+        "bn": "চিরস্থায়ী",
+        "en": "The Everlasting"
+      }
+    },
+    {
+      "number": 97,
+      "name": "الْوَارِثُ",
+      "transliteration": {
+        "bn": "আল ওয়ারিস",
+        "en": "Al-Waaris"
+      },
+      "meaning": {
+        "bn": "উত্তরাধিকারী",
+        "en": "The Inheritor"
+      }
+    },
+    {
+      "number": 98,
+      "name": "الرَّشِيدُ",
+      "transliteration": {
+        "bn": "আর রাশিদ",
+        "en": "Ar-Rasheed"
+      },
+      "meaning": {
+        "bn": "সঠিক পথ-প্রদর্শক",
+        "en": "The Guide to the Right Path"
+      }
+    },
+    {
+      "number": 99,
+      "name": "الصَّبُورُ",
+      "transliteration": {
+        "bn": "আস সাবুর",
+        "en": "As-Sabur"
+      },
+      "meaning": {
+        "bn": "ধৈর্যশীল",
+        "en": "The Patient"
+      }
+    }
+  ]
+}
